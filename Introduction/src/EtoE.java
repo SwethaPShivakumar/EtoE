@@ -1,3 +1,5 @@
+//About the code: End to end automation testing for a dummy project using selenium WebDriver based on java
+
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
